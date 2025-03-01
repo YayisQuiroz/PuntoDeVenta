@@ -1,0 +1,13 @@
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\bin\Debug\AppPuntodeVentas.exe.config
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\bin\Debug\AppPuntodeVentas.exe
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\bin\Debug\AppPuntodeVentas.pdb
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\obj\Debug\AppPuntodeVentas.csproj.AssemblyReference.cache
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\obj\Debug\AppPuntodeVentas.AltasProducto.resources
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\obj\Debug\AppPuntodeVentas.Busquedas.resources
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\obj\Debug\AppPuntodeVentas.Form1.resources
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\obj\Debug\AppPuntodeVentas.Properties.Resources.resources
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\obj\Debug\AppPuntodeVentas.Ventas.resources
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\obj\Debug\AppPuntodeVentas.csproj.GenerateResource.cache
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\obj\Debug\AppPuntodeVentas.csproj.CoreCompileInputs.cache
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\obj\Debug\AppPuntodeVentas.exe
+C:\Users\lizzi\source\repos\AppPuntodeVentas\AppPuntodeVentas\obj\Debug\AppPuntodeVentas.pdb
